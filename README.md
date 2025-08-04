@@ -1,3 +1,3 @@
 # nish_repo1
 This is my first Repo demo.
-Author-Nish
+Author-Nishtha jain
